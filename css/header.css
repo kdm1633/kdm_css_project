@@ -1,0 +1,40 @@
+#page {
+    width: 980px;
+    margin: 0 auto;
+}
+
+header #logo {
+    float: left;
+    margin: 15px 0 0 20px;
+}
+
+header #moto {
+    float: left;
+    margin: 45px 0 0 20px;
+}
+
+header #top_menu {
+    float: right;
+    margin: 50px 0 0 0;
+}
+
+header #top_menu li {
+    display: inline;
+}
+
+.line {
+    margin-top: 25px;
+    border-top: solid 1px #cccccc;
+}
+
+header nav ul {
+    margin-top: 25px;
+}
+
+header nav li {
+    display: inline
+}
+
+header nav li.item {
+    margin-left: 40px;
+}
