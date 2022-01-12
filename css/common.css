@@ -9,6 +9,11 @@ body {
     color: #444444;
 }
 
+#page {
+    width: 980px;
+    margin: 0 auto;
+}
+
 ul {
     list-style-type: none;
 }
