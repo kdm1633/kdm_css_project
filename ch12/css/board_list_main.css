@@ -1,0 +1,131 @@
+/* main */
+
+main {
+    float: right;
+    width: 758px;
+    /* border: solid 1px #ff0000; */
+}
+
+main h2#board_title {
+    margin-top: 20px;
+    padding: 0 0 5px 0;
+    border-bottom: solid 1px #bbbbbb;
+}
+
+main #total_search {
+    position: relative;
+    height: 35px;
+}
+
+main #total {
+    position: absolute;
+    top: 10px;
+}
+
+main #search {
+    position: absolute;
+    left: 460px;
+}
+
+main #search #select_img {
+    position: absolute;
+    top: 9px;
+}
+
+main #search #search_select {
+    position: absolute;
+    top: 5px;
+    left: 60px;
+}
+
+main #search #search_input {
+    position: absolute;
+    top: 5px;
+    left: 130px;
+}
+
+main #search #search_input input {
+    width: 100px;
+}
+
+main #search #search_btn {
+    position: absolute;
+    top: 5px;
+    left: 240px
+}
+
+main table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+main tr {
+    height: 30px;
+}
+
+main th {
+    border-top: solid 2px #aaaaaa;
+    background-color: #eeeeee;
+}
+
+main td {
+    border-bottom: solid 1px #dddddd;
+}
+
+main td.col1 {
+    width: 60px;
+    text-align: center;
+}
+
+main td.col2 {
+}
+
+main td.col3 {
+    width: 60px;
+    text-align: center;
+}
+
+main td.col4 {
+    width: 80px;
+    text-align: center;
+}
+
+main td.col5 {
+    width: 60px;
+    text-align: center;
+}
+
+main td a:link {
+    text-decoration: none;
+    color: #444444;
+}
+
+main td a:hover {
+    text-decoration: none;
+    color: #444444;
+}
+
+main td a:visited {
+    text-decoration: none;
+    color: #444444;
+}
+
+main td a:active {
+    text-decoration: none;
+    color: #444444;
+}
+
+main #buttons {
+    margin-top: 20px;
+}
+
+main #buttons .col1 {
+    float: left;
+    margin-left: 320px;
+}
+
+main #buttons .col2 {
+    float: right;
+    margin-right: 10px;
+}

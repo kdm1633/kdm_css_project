@@ -1,0 +1,60 @@
+/* main */
+
+main {
+    float: right;
+    width: 758px;
+    /* border: solid 1px #ff0000; */
+}
+
+main h2#board_title {
+    margin-top: 20px;
+    padding: 0 0 5px 0;
+}
+
+main #view_title_box {
+    margin: 10px 0 0 0;
+    padding: 10px;
+    border-top: solid 2px #aaaaaa;
+    background-color: #eeeeee;
+}
+
+main #view_title_box #info {
+    margin: 0 0 0 270px;
+}
+
+main #view_content {
+    padding: 20px 10px 10px 10px;
+    line-height: 150%;
+}
+
+main #comment_box {
+    position: relative;
+    height: 112px;
+    background-color: #efefef;
+    border-top: solid 1px #cccccc;
+}
+
+main #comment_box #title_comment {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+main #comment_box textarea {
+    width: 515px;
+    height: 78px;
+    position: absolute;
+    top: 15px;
+    left: 145px;
+}
+
+main #comment_box #ok_ripple {
+    position: absolute;
+    top: 15px;
+    left: 670px;
+}
+
+#buttons {
+    margin: 20px 0 0 0;
+    text-align: right;
+}

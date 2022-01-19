@@ -1,0 +1,70 @@
+/* main */
+
+main {
+    float: right;
+    width: 758px;
+    /* border: solid 1px #ff0000; */
+}
+
+main h2#board_title {
+    margin-top: 20px;
+    padding: 0 0 5px 0;
+    /* border: solid 1px #bbbbbb; */
+}
+
+main #write_title {
+    margin: 10px 0 0 0;
+    padding: 5px;
+    border-top: solid 2px #bbbbbb;
+    border-bottom: solid 1px #bbbbbb;
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+main table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+main td {
+    padding: 10px;
+    border-bottom: solid 1px #dddddd;
+}
+
+main td.col1 {
+    width: 150px;
+    text-align: center;
+    border-right: solid 1px #cccccc;
+}
+
+main td.col2 {
+    padding: 5px 0 0 10px;
+}
+
+main #name input {
+    width: 100px;
+    height: 16px;
+    border: solid 1px #00ba2e;
+}
+
+
+main #subject input {
+    width: 550px;
+    height: 16px;
+}
+
+main #content textarea {
+    width: 550px;
+    height: 200px;
+    margin: 5px 5px 5px 0;
+}
+
+main #upload input#file {
+    margin: 0px 0px 0px 5px;
+}
+
+main #buttons {
+    margin: 10px 10px 0 0;
+    text-align: right;
+}
